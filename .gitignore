@@ -1,0 +1,6 @@
+Debug/
+Release/
+.DS_Store
+.settings/
+latex/
+html/

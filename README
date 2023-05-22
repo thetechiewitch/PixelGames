@@ -1,0 +1,4 @@
+Scrolling Text on a MAX7219 Led Display with STM32F407G and custom made SPI Driver.
+
+STM32CUBEIDE project files are included.
+To build the project simply import the provided project into your workspace.
